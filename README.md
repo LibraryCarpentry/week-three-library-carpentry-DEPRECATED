@@ -1,4 +1,4 @@
-**NOTE: materials used for initial workshop. Now superceded by [https://github.com/data-lessons/library-git] (https://github.com/data-lessons/library-git)**
+**NOTE: materials used for initial workshop. Now superseded by [Git Intro for Librarians] (https://github.com/data-lessons/library-git)**
 
 ## Library Carpetry. Week Three: Git
 
